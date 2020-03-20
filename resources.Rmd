@@ -1,0 +1,60 @@
+---
+title: "Resources (El Recursos)"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+***
+
+# *English* 
+
+### NYC Updates: 
+
+Text COVID (for Spanish COVIDESP) to 692692
+
+### Internet/Electronics:
+
+**Spectrum** is providing free internet service to students without internet access - please call 1-844-488-8398 for further information.
+
+**Electronics** NYC DOE is able to provide electronic devices for public health students who need them for rmote learning:  https://coronavirus.schools.nyc/RemoteLearningDevice
+
+### Virtual Urgent Care:
+**Virtual Urgent Care** from NewYork-Presbyterian lets you see a board-certified emergency or pediatric emergency physician* from Columbia or Weill Cornell Medicine right on your phone, tablet, or computer.
+
+* Flexibility with services offered 7 days a week (8am-Midnight)
+
+* https://www.nyp.org/ondemand/urgent-care 
+
+### Food:
+
+**Mamajuana Cafe** in the Bronx located at 3233 East Tremont Avenue will be providing a lunch bag for the children of our community from 11am-1pm and from 4pm-8pm.
+
+Families can visit their nearest **DOE school** to pick up grab-and-go breakfast starting at 7:30 AM and lunch starting at 11:30 AM. Families can find their nearest school by visiting https://www.nycenet.edu/schoolsearch or by calling 311.
+
+***
+
+# *Español*
+
+### Informe de Recursos en NYC:
+
+Envíe un mensaje de texto COVID (para español COVIDESP) al 692692
+
+### Internet gratis:
+
+**Spectrum** ofrece servicio de internet gratuito a estudiantes sin acceso a internet; llame al 1-844-488-8398 para obtener más información.
+
+### Atención Medica Virtual (comuníquese vía el internet):
+
+**Virtual Urgent Care** de New York-Presbyterian le permite ver a un médico certificado de emergencia, sea pediatra o para adultos de Columbia o Weill Cornell Medicine directamente, por su teléfono, tableta o computadora.
+
+* Flexibilidad con los servicios ofrecidos los 7 días de la semana (8 de la mañana a medianoche)
+
+* https://www.nyp.org/ondemand/urgent-care
+
+### Comida:
+
+**Mamajuana Cafe** en el Bronx ubicado en 3233 East Tremont Avenue proporcionará una bolsa de almuerzo para los niños de nuestra comunidad de 11 a.m. a 1 p.m. y de 4 p.m. a 8 p.m.
+
+Las familias pueden visitar su **escuela DOE** más cercana para recoger el desayuno para llevar a partir de las 7:30 a.m. y el almuerzo a partir de las 11:30 a.m. Las familias pueden encontrar su escuela más cercana visitando https://www.nycenet.edu/schoolsearch o llamando al 311.
