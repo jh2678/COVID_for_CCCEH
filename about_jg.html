@@ -11,7 +11,7 @@
 
 
 
-<title>Information for CCCEH Study Participants about COVID-19</title>
+<title>About</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,9 +19,6 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -253,69 +250,6 @@ $(document).ready(function () {
 
 
 
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-@media print {
-.toc-content {
-  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
-  float: right;
-}
-}
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-
-</style>
-
-
 
 </head>
 
@@ -323,16 +257,6 @@ div.tocify {
 
 
 <div class="container-fluid main-container">
-
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -376,49 +300,19 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Information for CCCEH Study Participants about COVID-19</h1>
+<h1 class="title toc-ignore">About</h1>
 
 </div>
 
 
-<p><img src="logo.png"></p>
-<div id="a-message-from-ccceh" class="section level2">
-<h2>A message from CCCEH</h2>
-<p>We hope you and your family are doing well in the midst of this rapid coronavirus outbreak (COVID-19). We want to take a moment to update you on possible efforts to protect your health.</p>
-<p>We have put in place public health measures that can help slow the spread of disease by reducing opportunities for sick individuals to come in contact with healthy ones. Therefore, we have temporarily paused all in-person study visits. However, we will stay in close touch with you via telephone so that we can continue the work together.</p>
-</div>
-<div id="protect-yourself-and-your-family" class="section level2">
-<h2>Protect yourself and your family</h2>
-<p>We also want to remind you of simple things we can all do to protect yourselves and reduce the chance of spreading the novel coronavirus:</p>
-<ul>
-<li><p>Wash your hands often.</p></li>
-<li><p>Avoid touching your eyes, nose, and mouth with unwashed hands.</p></li>
-<li><p>Avoid close contact with people who are sick.</p></li>
-<li><p>Stay home when you are sick.</p></li>
-<li><p>Cover your cough or sneeze.</p></li>
-<li><p>Wear a facemask if you are sick.</p></li>
-<li><p>Clean and disinfect frequently touched objects and surfaces.</p></li>
-</ul>
-<p><img src="English_infographic.jpeg"></p>
-</div>
-<div id="ways-to-reduce-stress" class="section level2">
-<h2>Ways to reduce stress</h2>
-<p>Share the facts about COVID-19 and understand actual risk to yourself and people you care about.</p>
-<ul>
-<li><p>Take breaks from watching, reading, or listening to news stories, including social media. Hearing about the pandemic repeatedly can be upsetting.</p></li>
-<li><p>Take care of your body. Take deep breaths, stretch, or meditate. Try to eat healthy, well-balanced meals, exercise and get plenty of sleep.</p></li>
-<li><p>Make time to unwind. Try to do some other activities you enjoy.</p></li>
-<li><p>Connect with others. Talk with people you trust about your concerns and how you are feeling.</p></li>
-</ul>
-<p>We are committed to staying connected with you during this challenging situation.</p>
-<p>Please reach out to the center if you have any questions or need guidance regarding credible sources of information about COVID-19, preventive measures, and ways to care for each other and protect your community’s health. We will continue to monitor this situation and answer any questions and concerns you may have.</p>
-<p><img src="yrend.jpg"></p>
+<div id="about-this-site" class="section level3">
+<h3>About this site</h3>
+<p>Sometimes you need to say a bit about the site – how it was made, where it’s hosted, where the source code can be found.</p>
+<p>If this is for a project or analysis, I recommend giving some details about the R package versions that you used to create the content.</p>
 </div>
 
 
 
-</div>
-</div>
 
 </div>
 
@@ -451,32 +345,6 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
