@@ -6,4 +6,4 @@ output:
     toc_float: true
 ---
 
-<img src="staff.png">
+<img src="staff2.png">

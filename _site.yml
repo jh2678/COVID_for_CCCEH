@@ -6,9 +6,9 @@ navbar:
   left:
     - text: "En Español"
       href: spanish.html
-    - text: "Resources/El Recursos"
+    - text: "Resources/Recursos"
       href: resources.html
-    - text: "Contact us/Contacta con nosotras"
+    - text: "Contact us/Contáctenos"
       href: contact.html
     - icon: fa-github fa-lg
       href:  https://github.com/jh2678/COVID_for_CCCEH.git
