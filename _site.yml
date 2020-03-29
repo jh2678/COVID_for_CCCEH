@@ -9,7 +9,7 @@ navbar:
     - text: "Resources/Recursos"
       href: resources.html
     - text: "If you are pregnant/Si está embarazada"
-      href: pregnant.html
+      href: pregnancy.html
     - text: "Contact us/Contáctenos"
       href: contact.html
     - icon: fa-github fa-lg
