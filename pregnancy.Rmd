@@ -1,5 +1,6 @@
 ---
 title: "If you are pregnant"
+date: "(updated 4/3/2020)"
 output: 
   html_document:
     toc: true
@@ -16,7 +17,7 @@ output:
 
 <img src="ColumbiaWomens.jpeg">
 
-### Delivering at NY Prebyterian:   
+### Delivering at NY Presbyterian:   
 
 * Information for patients planning to deliver at NY Presbyterian.  
 
