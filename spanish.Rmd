@@ -1,6 +1,6 @@
 ---
 title: "Un mensaje del Centro sobre el brote de coronavirus (COVID-19)"
-date:  "(updated 4/3/2020)"
+date:  "(updated 4/28/2020)"
 output: 
   html_document:
     toc: true
@@ -28,7 +28,7 @@ Queremos recordarles cosas simples que se pueden hacer para protegerse y reducir
  
 * Cúbrase cuando tenga tos o estornudos.
  
-* Use una mascarilla si está enfermo.
+* Si tiene que salir de su casa, use mascarilla y mantegase a seis pies de distancia. 
  
 * Limpie y desinfecte objetos y superficies que se tocan con frecuencia.
  

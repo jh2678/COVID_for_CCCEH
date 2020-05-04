@@ -1,6 +1,6 @@
 ---
 title: "Information for CCCEH Study Participants about COVID-19"
-date: "(updated 4/3/2020)"
+date: "(updated 4/28/2020)"
 output: 
   html_document:
     toc: true
@@ -27,7 +27,7 @@ We also want to remind you of simple things we can all do to protect yourselves 
 
 * Cover your cough or sneeze.
 
-* Wear a facemask if you are sick.
+* If you have to leave your home, wear a facemask and stay at least 6 feet away from others.
 
 * Clean and disinfect frequently touched objects and surfaces.
 
