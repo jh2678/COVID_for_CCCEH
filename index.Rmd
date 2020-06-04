@@ -1,6 +1,6 @@
 ---
 title: "Information for CCCEH Study Participants about COVID-19"
-date: "(updated 4/28/2020)"
+date: "(updated 6/4/2020)"
 output: 
   html_document:
     toc: true
@@ -9,6 +9,17 @@ output:
 <img src="logo.png">
 
 ## A message from CCCEH
+
+In three months, with 108,000 lives taken away by the Coronavirus, again, we are reminded of the disproportionate burden suffered by communities of color and low-income communities.
+
+Centuries of human rights abuses endured by members of our African-American community, compounded still by systemic racism, demand that we stand for the change that is needed.
+
+Let's use this moment in time to teach our children about race and racism.  Let's acknowledge the hurt, the deep impact of racism and racial inequity on all aspects of our society and start the hard work of *building a better world, and a brighter future*.  
+
+**List of Resources for Anti-Racism and Talking about Race and Racism with Children**
+https://www.theprimaryschool.org/blog/2020/6/2/resources-for-anti-racism-and-talking-about-race-and-racism-with-children
+
+***
 
  We hope you and your family are doing well in the midst of this rapid coronavirus outbreak (COVID-19).  We want to take a moment to update you on possible efforts to protect your health. 
 

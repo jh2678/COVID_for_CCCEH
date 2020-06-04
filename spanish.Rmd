@@ -1,6 +1,6 @@
 ---
 title: "Un mensaje del Centro sobre el brote de coronavirus (COVID-19)"
-date:  "(updated 4/28/2020)"
+date:  "(updated 6/4/2020)"
 output: 
   html_document:
     toc: true
@@ -10,6 +10,18 @@ output:
 <img src="logo.png">
 
 ## Mensaje del CCCEH
+
+En tres meses han fallecido más de 108,000 personas en los Estados Unidos por el Coronavirus. De nuevo, vemos que las comunidades de bajos ingresos, afroamericanas y latinas han sido desproporcionadamente afectadas en esta crisis de salud. 
+
+Al reconocer, los siglos de abusos contra los derechos humanos que padecen los miembros de nuestra comunidad afroamericana, agravados aún por los sistemas de nuestra nación que perpetúan la injusticia, se nos exige que defendamos el cambio que se necesita.
+
+Usemos este momento para enseñarles a nuestros hijos/hijas sobres las razas y el racismo. Hay que reconocer las heridas profundas que el racismo, y la desigualdad racial han tenido en todos los niveles de nuestra sociedad. Debemos comenzar el arduo trabajo de *crear un mejor mundo y un futuro más brillante*.  
+
+**Recursos para facilitar conversaciones con niños sobre raza y el racismo**
+
+https://www.theprimaryschool.org/blog/2020/6/3/recursos-antirracistas-en-espanol
+
+***
 
 El Centro de Columbia para la Salud Ambiental de los Niños espera que usted y su familia se encuentren bien durante la propagación del coronavirus (COVID-19). Por medio de esta carta, queremos actualizarlos sobre nuestros esfuerzos para proteger su salud.
  
